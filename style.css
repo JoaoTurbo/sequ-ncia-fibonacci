@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+h1
+{
+    text-shadow: 4px 4px 6px #000;
+    font-weight: 700;
+    font-size: max(44px,5.2vw);
+    margin-bottom: 1.5rem;
+}
+button
+{
+    margin: 1.5rem 0 1.5rem 0;
+
+}
+
+/* body{
+    background-color: rgb(195, 240, 225);
+} */
+
+p{
+    font-size: larger;
+
+}
